@@ -1,0 +1,47 @@
+header {
+    background-color: lightgray;
+    text-align: center;
+
+    
+}
+
+article {    
+    font-size: 20px;
+    border: 1px solid black;
+    margin: 10px;
+    text-align: center;
+}
+
+.primeiro{
+    background-color: green;
+    color: white;
+}
+.segundo{
+    background-color: red;
+}
+.terceiro{
+    background-color: black;
+    color: white;
+}
+.quarto{
+    background-color: red;
+}
+
+h2{
+    font-size: 200%;
+}
+
+p{
+    font-size: larger;
+}
+
+span{
+    font-size: 120%;
+    font-weight: 800;        
+}
+
+footer {
+    background-color: darkgray;
+    color: white;
+    text-align: center;
+}
